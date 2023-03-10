@@ -50,10 +50,9 @@ Here are some ideas to get you started:
 <code><img width="5%" title="Сonfluence" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_confluence_icon_130672.png"></code>
 <code><img width="5%" title="SQL" src="https://image.shutterstock.com/image-vector/sql-database-icon-logo-design-260nw-684826648.jpg"></code>
 <code><img width="5%" title="Appium" src="https://cdn.worldvectorlogo.com/logos/appium.svg"></code>
-<code><img width="5%" title="BrowserStack" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Breezeicons-apps-48-android-studio.svg/1024px-Breezeicons-apps-48-android-studio.svg.png](https://github.com/Yunaika/yunaika/blob/main/img/logos/browserstack.png)"></code>
+<code><img width="5%" title="BrowserStack" src="https://github.com/Yunaika/yunaika/blob/main/img/logos/browserstack.png"></code>
 <code><img width="5%" title="Android studio" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Breezeicons-apps-48-android-studio.svg/1024px-Breezeicons-apps-48-android-studio.svg.png"></code>
 </p>
-
 
 <!--Git Stats-->
 
