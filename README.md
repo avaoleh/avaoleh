@@ -20,15 +20,9 @@ Here are some ideas to get you started:
 
 
  About Me :
-- ðŸŒ± Iâ€™m currently learning Python/Selenium/Pytest
-- ðŸ’¬ Want to learn Java/Selenide in future
-- Email : andrechizh.ru@yandex.ru
-
-<!--About me-->
-
-## :technologist:About me
-- I work QA about 3 years
-- I'm currently learning Python/Selenium/Pytest
+- 🔭 I work QA about 3 years
+- 🌱 I'm currently learning Python/Selenium/Pytest
+- ⚡ Want to learn JavaScript/TS Playwright/Cypress in future
 
 
 ---
