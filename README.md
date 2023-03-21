@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 I work QA about 3 years
 - 🌱 I'm currently learning Python/Selenium/Pytest
-- ⚡ Want to learn JavaScript/TS Playwright/Cypress in future
+- ⚡ Going to learn JavaScript/TS Playwright/Cypress
 
 
 ---
