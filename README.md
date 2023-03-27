@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 <!--About Me --> 
 
-- 🔭 I work QA about 3 years
-- 🌱 I'm currently learning Python/Selenium/Pytest
-- ⚡ Going to learn JavaScript/TS Playwright/Cypress
+- 🔭 I'm manual and automation Engineer 
+- 🌱 I work QA about 3 years 
+- ⚡ I write autotests in Python, JS
 
 
 ---
