@@ -58,7 +58,42 @@ Here are some ideas to get you started:
 
 &#8287;&#8287;&#8287;&#8287;&#8287;
 ## :bar_chart:Git stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=avaoleh&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avaoleh&show_icons=true&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=avaoleh&theme=tokyonight) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avaoleh&theme=tokyonight)
 
+---
+## :books:Projects
+
+### :computer: <b><a href="https://github.com/avaoleh/ui_demoqa">UI TESTS</a>
+    
+#### :pencil2: Реализованы автотесты UI на сайт DEMOQA с использованием :
+
+:heavy_check_mark: Page Object
+
+:heavy_check_mark: Jenkins
+    
+:heavy_check_mark: Allure Reports
+    
+:heavy_check_mark: Allure TestOps
+    
+:heavy_check_mark: Интеграция с Jira
+    
+:heavy_check_mark: Selenoid
+    
+:heavy_check_mark: Telegram уведомления
+  
+    
+### :octocat: <b><a href="https://github.com/avaoleh/reqres_api"> API RESTFUL TESTS</a>
+#### :pencil2: Реализованы автотесты для тестового API www.reqres.in. с использованием :
+
+:heavy_check_mark: Allure Reports
+    
+:heavy_check_mark: Allure TestOps
+    
+:heavy_check_mark: Интеграция с Jira
+    
+:heavy_check_mark: Python Requests
+    
+:heavy_check_mark: Telegram уведомления
+    
+---
