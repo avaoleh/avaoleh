@@ -95,5 +95,18 @@ Here are some ideas to get you started:
 :heavy_check_mark: Python Requests
     
 :heavy_check_mark: Telegram уведомления
+
+### :iphone: <b><a href="https://github.com/avaoleh/wikipedia_mobile"> Mobile app wiki</a>
+#### :pencil2: Реализованы автотесты для мобильного приложения Wikipedia с использованием :
+
+:heavy_check_mark: Allure Reports
+    
+:heavy_check_mark: Allure TestOps
+    
+:heavy_check_mark: Интеграция с Jira
+    
+:heavy_check_mark: Python Requests
+    
+:heavy_check_mark: Telegram уведомления
     
 ---
