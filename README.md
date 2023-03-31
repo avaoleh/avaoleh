@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 &#8287;&#8287;&#8287;&#8287;&#8287;
 ## :bar_chart:Git stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avaoleh&show_icons=true&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=avaoleh&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=avaoleh&theme=tokyonight) 
 
 ---
