@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 
-<!--About Me --> 
+<!--About Me 
 
 - 🔭 I'm manual and automation Engineer 
 - 🌱 I work QA about 3 years 
 - ⚡ I write autotests in Python, JS
-
+--> 
 
 ---
 
