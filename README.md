@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 &#8287;&#8287;&#8287;&#8287;&#8287;
 ## :computer:Stack and tools
 
+<!-
 <p  align="center"
 
 <code><img width="5%" title="Pycharm" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png"></code>
@@ -110,3 +111,4 @@ Here are some ideas to get you started:
 :heavy_check_mark: Telegram уведомления
     
 ---
+-->
