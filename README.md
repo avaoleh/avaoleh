@@ -23,7 +23,7 @@ Here are some ideas to get you started:
  
  🌱 I work QA about 3 years 
  
- ⚡ I write autotests in Python, JS
+ ⚡ I write autotests in Python
  
 
 ---
